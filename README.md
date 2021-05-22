@@ -1,2 +1,3 @@
 # hello-world
-one-step
+I'm Monika. I very like Python languge. 
+This in my first programi languge 
